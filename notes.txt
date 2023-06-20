@@ -1,0 +1,12 @@
+- apa itu html, css, javascript ok
+- struktur dasar html ok
+- membuat tulisan paragraf ok
+- hyperlink ok
+- form ok
+- inline, internal, external styling ok
+- javascript bisa inline, internal, external ok
+- dom javascript ok
+
+kalau memang sempat:
+- div
+- table

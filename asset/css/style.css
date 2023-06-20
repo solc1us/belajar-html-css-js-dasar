@@ -1,0 +1,16 @@
+/* . merepresentasikan class untuk element html */
+/* # merepresentasikan id untuk element html */
+
+.tabel1 tr td {
+  padding: 10px;
+}
+
+.biru {
+  color: blue;
+}
+#bab1bawah {
+  color: green;
+}
+h2 {
+  color: blue;
+}
